@@ -690,10 +690,6 @@
   display: flex;
   align-items: center;
   margin-inline-end: var(--#{$menu}__item-check--MarginRight);
-
-  .#{$check} {
-    --pf-v5-c-check__input--TranslateY: none;
-  }
 }
 
 // Toggle icon
